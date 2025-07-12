@@ -219,11 +219,11 @@ The plugin includes comprehensive CSS classes for customization:
 ## Support
 
 ### Documentation
-Full documentation available at [srswebsolutions.com/docs/ai-chatbot](https://srswebsolutions.com/docs/ai-chatbot)
+Full documentation available at [srsdesignsllc.com/docs/ai-chatbot](https://srsdesignsllc.com/docs/ai-chatbot)
 
 ### Support Channels
-- **Email**: support@srswebsolutions.com
-- **GitHub**: [Issues and feature requests](https://github.com/srswebsolutions/srs-ai-chatbot)
+- **Email**: support@srsdesignsllc.com
+- **GitHub**: [Issues and feature requests]([(https://github.com/sumpter32/srs-ai-chatbot))
 - **WordPress Forum**: Plugin support forum
 
 ## Changelog
@@ -244,6 +244,6 @@ This plugin is licensed under the GPL v2 or later.
 
 ## Credits
 
-Developed by [SRS Web Solutions](https://srswebsolutions.com)
+Developed by [SRS SRS Designs LLC](https://srsdesignsllc.com)
 
 Built with modern WordPress development practices and the latest AI technologies.
